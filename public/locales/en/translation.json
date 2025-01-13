@@ -1,0 +1,62 @@
+{
+  "app-title": "Senda Kiyoharu • Portfolio",
+  "loading": "Loading...",
+  "greetings": "Hi there, I'm ",
+  "name": "Senda",
+  "name-end": ".",
+  "sub-heading": "Welcome to my portfolio site.",
+  "more-info": "I am an experienced full-stack developer with extensive expertise in designing, developing, and deploying web applications using a wide variety of technologies.",
+  "resume-btn": "resume",
+  "about-heading": "about me",
+  "about-text-1": " I am passionate about leveraging cutting-edge web technologies to build innovative digital solutions. With years of experience in full-stack web development and programming, I possess a diverse skill set that allows me to tackle complex technical challenges. Staying up-to-date with the latest industry trends, I love to learn new things. I take great pride in my ability to translate complex technical concepts into user-friendly interfaces and intuitive decentralized applications.",
+  "about-text-2": " On weekends, you can find me glued to the TV, cheering on my favorite football team as they battle it out on the pitch. I am a die-hard supporter of Manchester City team, and the thrill of watching a close match or a last-minute winner never fails to get my adrenaline pumping. Discussing the latest football news, tactics, and player transfers with fellow fans is one of my favorite pastimes, and I relish the opportunity to engage in lively debates about the sport. Attending live matches and experiencing the electric atmosphere of the stadium is a true highlight for me, as I soak in the passion and camaraderie shared by fellow supporters.",
+  "about-text-3": " When I'm not immersed in the world of development or football, I enjoy the simple pleasures of life as a regular person. Spending quality time with my family and friends, whether it's sharing a meal, going for a leisurely stroll, or simply catching up over a cup of coffee, is a source of great joy and balance in my life. I make it a priority to maintain a healthy work-life balance, taking time to pursue hobbies and interests outside of my professional endeavors, such as reading, cooking, or exploring the outdoors.",
+  "about-text-4": " At the end of the day, I strive to be a kind, compassionate, and well-rounded individual who contributes positively to the communities and relationships I am a part of. Whatever the future holds, I'm ready to embrace the challenges and celebrate the victories along the way.",
+  "technology-heading": "Technologies",
+  "projects-heading": "projects",
+  "projects": [
+    {
+      "id": 1,
+      "description": "Curated detailed information about various travel destinations, including attractions, activities, and local culture. Offered users the ability to create and customize their own travel itineraries, making planning their trips easier and more enjoyable."
+    },
+    {
+      "id": 2,
+      "description": "This is your overwhelm-free, test-busting study package! In this 5-unit program, we’ve broken down the exam’s formulas through 5 tailored habits with examples, practice questions, and one-on-one aid so you can cut the bullshit, cut distractors, and get the answers!"
+    },
+    {
+      "id": 3,
+      "description": "An application based on the traditional game with two extra player choices originating from 'The Big Bang Theory'. Users can play against a computer on their mobile device or desktop and try to get a high score."
+    },
+    {
+      "id": 4,
+      "description": "A file management tool that automates the process of unzipping, renaming, and re-zipping files. This project was developed to streamline workflows for users who frequently handle large volumes of compressed files."
+    },
+    {
+      "id": 5,
+      "description": "Developed an intuitive layout that enhances user navigation and encourages engagement with content. Integrated a docusaurus-v3 that allows for easy creation, editing, and publishing of blog posts."
+    }
+  ],
+  "show-more-btn": "show more",
+  "show-less-btn": "show less",
+  "learn-more": "more info",
+  "navigation": [
+    {
+      "menuTitle": "home",
+      "href": "/#home"
+    },
+    {
+      "menuTitle": "about",
+      "href": "/#about"
+    },
+    {
+      "menuTitle": "technology",
+      "href": "/#technology"
+    },
+    {
+      "menuTitle": "projects",
+      "href": "/#projects"
+    }
+  ],
+  "footer-contact": "e-mail",
+  "footer-message": "Website by Senda Kiyoharu"
+}
