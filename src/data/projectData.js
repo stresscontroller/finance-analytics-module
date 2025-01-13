@@ -7,7 +7,7 @@ export const projectData = [
     technologies: ['Angular', 'SCSS', 'Primeng', 'Nest.js', 'MySQL'],
     imageUrl: '/rasters/touring.png',
     mobileUrl: '/rasters/touring.png',
-    repository: 'https://github.com/magician-00/Touring',
+    repository: 'https://github.com/moonlight-619/Touring',
     livelink: '',
   },
   {
@@ -18,7 +18,7 @@ export const projectData = [
     technologies: ['Next.js', 'Tailwind', 'Sanity', 'Stripe'],
     imageUrl: 'rasters/sashi-care.png',
     mobileUrl: 'rasters/sashi-care.png',
-    repository: 'https://github.com/magician-00/sashi-care',
+    repository: 'https://github.com/moonlight-619/sashi-care',
     livelink: '',
   },
   {
@@ -29,7 +29,7 @@ export const projectData = [
     technologies: ['HTML', 'Tailwind', 'OpenAi-API', 'AI-Assistant'],
     imageUrl: 'rasters/ai-avatar-interaction.png',
     mobileUrl: 'rasters/ai-avatar-interaction.png',
-    repository: 'https://github.com/magician-00/ai-avatar-interaction',
+    repository: 'https://github.com/moonlight-619/ai-avatar-interaction',
     livelink: '',
   },
   {
@@ -40,7 +40,7 @@ export const projectData = [
     technologies: ['Electron'],
     imageUrl: 'rasters/jurybook-renamer.png',
     mobileUrl: 'rasters/jurybook-renamer.png',
-    repository: 'https://github.com/magician-00/jurybook-renamer',
+    repository: 'https://github.com/moonlight-619/jurybook-renamer',
     livelink: '',
   },
   {
@@ -51,7 +51,7 @@ export const projectData = [
       technologies: ['React','Docusaurus-v3'],
       imageUrl: 'rasters/docs.png',
     mobileUrl: 'rasters/docs.png',
-    repository: 'https://github.com/magician-00/TouringDocs',
+    repository: 'https://github.com/moonlight-619/TouringDocs',
     livelink: '',
   },
 ];
