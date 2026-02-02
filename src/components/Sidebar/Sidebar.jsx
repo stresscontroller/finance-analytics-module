@@ -27,7 +27,7 @@ const Sidebar = () => {
             whileHover='visible'
             animate='hidden'
             variants={socialIconVariants}
-            href='https://github.com/moonlight-619'
+            href='https://github.com/your-github'
             aria-label='Github'
             target='_blank'
             rel='noreferrer noopener'
