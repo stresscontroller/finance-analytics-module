@@ -1,6 +1,7 @@
 # Portfolio Telegram Analytics
 
 Read-only Telegram analytics bot for portfolio snapshots. Users upload a CSV, queue analysis, and receive a text summary plus charts. A worker processes jobs from SQLite, and an optional weekly summary can be sent on a schedule.
+[![Watch Demo](https://raw.githubusercontent.com/stresscontroller/finance-analytics-module/main/preview.png)](https://github.com/stresscontroller/finance-analytics-module/blob/main/analytics-module.mp4)
 
 ## Features
 
