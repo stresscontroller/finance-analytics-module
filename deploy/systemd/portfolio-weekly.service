@@ -1,0 +1,14 @@
+[Unit]
+Description=Portfolio Weekly Summary Runner
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=root
+Group=root
+WorkingDirectory=/opt/portfolio-telegram-analytics
+EnvironmentFile=/opt/portfolio-telegram-analytics/.env
+ExecStart=/usr/bin/flock -n /var/lock/portfolio-weekly.lock /opt/portfolio-telegram-analytics/.venv/bin/python -m portfolio_app.weekly
+
+NoNewPrivileges=true
